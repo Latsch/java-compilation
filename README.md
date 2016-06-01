@@ -1,3 +1,3 @@
 # java-compilation
 
-Several Projects writen in Java
+Several Projects writen in Java for learning purposes
