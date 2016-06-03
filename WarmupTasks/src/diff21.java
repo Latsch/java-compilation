@@ -8,6 +8,10 @@ public class diff21 {
         System.out.println(diff21(23));
     }
 
+    /*
+        Number minus 21. If number is smaller, return difference.
+        If number is bigger return absolute difference and double it.
+     */
     private static int diff21(int number){
 
         if(number > 21){
